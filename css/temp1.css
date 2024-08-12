@@ -177,7 +177,8 @@ html {
 
 
     .landing  {
-        background-image: url(../images/days.jpg);
+       
+      background-image: url('../images/days.jpg') ;
         background-size: cover;
         height:70vh;
            
